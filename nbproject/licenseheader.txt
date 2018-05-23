@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Mail Encrypter Created by 13012555  ${licensePrefix}
+${licensePrefix} ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
